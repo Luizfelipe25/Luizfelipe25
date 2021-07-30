@@ -1,11 +1,9 @@
 ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30px"> Olá, Sou Luiz Felipe! 
-💻 Engenharia da computação.<br/>
-✈️ Atualmente sou estágiario e atuo como Web Fullstack na Embraer.<br/>
-📖 Estudando React e seu ecossistema.<br/><br/>
+💻 &nbsp; Engenharia da computação.<br>
+✈️ &nbsp; Atualmente sou estágiario e atuo como Web Fullstack na Embraer.<br>
+📖 &nbsp; Estudando React e seu ecossistema.<br><br>
 
  <div>
-  <a href="https://github.com/rafaballerini">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizfelipe25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> --->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipe25&layout=compact&langs_count=7&theme=tokyonight"/> 
 </div>
   
