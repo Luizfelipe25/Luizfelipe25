@@ -2,11 +2,11 @@
 
 💻 Engenharia da computação.<br/>
 ✈️ Atualmente sou estágiario e atuo como Web Fullstack na Embraer.<br/>
-📖 Estudando React e seu ecossistema.<br/>
- <div>
+📖 Estudando React e seu ecossistema.<br/><br/>
+ <span>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizfelipe25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipe25&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</span>
 
   ## 
   
