@@ -4,7 +4,8 @@
 💻 &nbsp; Estudando React e seu ecossistema.<br><br>
 
  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipe25&layout=compact&langs_count=7&theme=tokyonight"/> 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizfelipe25&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
+   
 </div>
   
   ##
