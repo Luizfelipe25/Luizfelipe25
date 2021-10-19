@@ -22,9 +22,10 @@
  <img align="center"  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
  <img align="center"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
-
- <br>
-  <div>
+ <div>
+ 
+ ### 📈 &nbsp; Stats:<br>
+ 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizfelipe25&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
    
 </div>
