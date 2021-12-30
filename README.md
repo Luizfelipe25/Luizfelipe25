@@ -1,9 +1,9 @@
 ##  👋 Hey! My Name is Luiz Felipe!
 
-🎓 &nbsp; Computer Engineering.<br>
+🎓 &nbsp; Computer Engineer.<br>
 👨‍💻 &nbsp; Currently I'm a Software Developer in Technological Innovations - FITec.<br>
-💻 &nbsp; At the moment I'm focused on Web Full Stack Development and learning about Data Science.<br>
-
+💻 &nbsp; At the moment I'm working with Web Full Stack Development and with data, developing graphics with the R language.<br>
+📜 &nbsp; Also learning about mobile development.<br>
  ### 🛠️ &nbsp; Technologies:<br>
 <div>
  <img align="center"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
