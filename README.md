@@ -30,8 +30,8 @@ And also I have experience with:<br>
  <div>
  
  ### 📈 &nbsp; Stats:<br>
- <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipe25&hide=jupyter%20notebook&theme=cobalt"/>
- <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizfelipe25&show_icons=true&theme=cobalt&include_all_commits=false&count_private=true"/>
+ <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipe25&hide=jupyter%20notebook&theme=merko"/>
+ <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizfelipe25&show_icons=true&theme=merko&include_all_commits=false&count_private=true"/>
   
 </div>
 
