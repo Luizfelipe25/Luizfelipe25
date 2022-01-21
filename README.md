@@ -1,10 +1,10 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there!
 
 👨‍🎓 &nbsp; My name is Luiz Felipe and I'm graduated at Computer Engineer.<br>
-💻 &nbsp;Currently I'm a Fullstack Developer in Technological Innovations - FITec.<br> 
-💪 &nbsp;Always improving my knowledge.<br>
+💻 &nbsp;Currently I'm a Fullstack Developer at Technological Innovations - FITec.<br> 
+💪 &nbsp;Improving my knowledge in React ecosystem and Java.<br>
  ### 🔨 &nbsp; Technologies:<br>
- Working with:<br>
+ Currently Working with:<br>
 
  <p>
  <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -19,7 +19,7 @@
  <img  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p> 
 
-And also I have experience with:<br>
+And I also have experience with:<br>
 
 <p>
  <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
