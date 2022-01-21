@@ -1,8 +1,8 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! I'm Luiz Felipe!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there!
 
-👨‍🎓 &nbsp; Graduated at Computer Engineer.<br>
-💻 &nbsp; Currently I'm a Fullstack Developer in Technological Innovations - FITec.<br> 
-💪 &nbsp; Always improving my knowledge.<br>
+👨‍🎓 &nbsp; My name is Luiz Felipe and I'm graduated at Computer Engineer.<br>
+💻 &nbsp;Currently I'm a Fullstack Developer in Technological Innovations - FITec.<br> 
+💪 &nbsp;Always improving my knowledge.<br>
  ### 🔨 &nbsp; Technologies:<br>
  Working with:<br>
 
