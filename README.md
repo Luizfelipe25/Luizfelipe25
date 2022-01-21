@@ -30,7 +30,7 @@ And also I have experience with:<br>
  <div>
  
  ### 📈 &nbsp; Stats:<br>
- <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipe25&theme=merko"/>
+ <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipe25&langs_count=15&theme=merko"/>
  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizfelipe25&show_icons=true&theme=merko&include_all_commits=false&count_private=false"/>
   
 </div>
