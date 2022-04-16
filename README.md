@@ -6,7 +6,7 @@ Welcome to my gitHub profile, here have some of my personal projects and studies
 <li> <b>Nationality:</b> Brazilian</li>
 
 ## Description
-<b> I am a technology enthusiast!</b><br> Currently working as a fullstack developer at Technological Innovations - FITec. I've been working as a web developer for<b> 3 years</b>, currently working on the back-end with <b>JAVA-Spring Framework, Hibernate, Jenkings, Docker and this ecosystem</b>. Also I have developed several projects on the Front-end and have a good knowledge of the <b>React framework.</b> Improving my knowledge of <b>microservices and AWS.</b> I am always up to date, looking for the <b>best practices </b>and trying to understand how everything works in the projects!
+<b> I am a technology enthusiast!</b><br> Currently working as a fullstack developer at Technological Innovations - FITec. I've been working as a web developer for<b> 3 years</b>, currently working on the back-end with <b>JAVA-Spring Framework, Cloud Computing and this ecosystem</b>. Also I have developed several projects on the Front-end and have a good knowledge of the <b>React framework.</b> Improving my knowledge of <b>microservices and AWS.</b> I am always up to date, looking for the <b>best practices </b>and trying to understand how everything works in the projects!
 
 👨‍🎓 <b>Graduated at Computer Engineer.</b><br>
 
