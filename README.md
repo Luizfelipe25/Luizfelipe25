@@ -7,9 +7,9 @@ Welcome to my gitHub profile, here have some of my personal projects and studies
 
 ## Description
 
-I am a technology enthusiast!
-I've been working as a developer for 4 years, currently I'm working on the back-end with JAVA-Spring Framework, Microsservices and Cloud Computing. Also I have developed several projects on the Front-end and have a good knowledge with Javascript, React and the ecosystem. I easily adapt to new challenges and I'm always searching to be up to date.
-<b> I am a technology enthusiast!</b><br> I've been working as a developer for<b> 4 years</b>, currently I'm working on the back-end with <b>JAVA-Spring Framework, Microsservices and Cloud Computing</b>. Also I have developed several projects on the Front-end and have a good knowledge with <b>Javascript, React and the ecosystem</b>. I easily adapt to new challenges and I'm always searching to be up to date. <br/><br/> 
+<b> I am a technology enthusiast!</b><br> 
+I've been working as a developer for 4 years, currently I'm working on the back-end with JAVA-Spring Framework, Microsservices and Cloud Computing. Also I have developed several projects on the Front-end and have a good knowledge with Javascript, React and the ecosystem. I easily adapt to new challenges and I'm always searching to be up to date.<br> 
+I've been working as a developer for<b> 4 years</b>, currently I'm working on the back-end with <b>JAVA-Spring Framework, Microsservices and Cloud Computing</b>. Also I have developed several projects on the Front-end and have a good knowledge with <b>Javascript, React and the ecosystem</b>. I easily adapt to new challenges and I'm always searching to be up to date. <br/><br/> 
 Looking for the <b>Best Practices,</b> trying to understand how everything works and <b>Evolving everyday</b>!<br/><br/> 
 <b>Native Portuguese, fluent English speaker and a French language student.</b>
 
