@@ -2,7 +2,7 @@
 Welcome to my gitHub profile, here have some of my personal projects and studies! 
 ## Informations
 <li> <b>Name:</b> Luiz Felipe Farias</li>
-<li> <b>Age:</b> 24</li>
+<li> <b>Age:</b> 25</li>
 <li> <b>Nationality:</b> Brazilian</li>
 
 ## Description
